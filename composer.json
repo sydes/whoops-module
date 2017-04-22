@@ -1,0 +1,19 @@
+{
+  "name": "sydes/whoops-module",
+  "description": "Pretty error viewer with whoops",
+  "type": "sydes-module",
+  "keywords": ["sydes", "module", "whoops", "exception"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ArtyGrand",
+      "email": "artygrand@gmail.com",
+      "homepage": "http://artygrand.ru"
+    }
+  ],
+  "require": {
+    "php": "^5.5.9 || ^7.0",
+    "composer/installers": "~1.0",
+    "filp/whoops": "^2.1"
+  }
+}
